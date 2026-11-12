@@ -21,3 +21,8 @@ Microsoft Certifications
 
 - Course Name: Explore prebuilt Microsoft Copilot agents
 - Certificate: https://learn.microsoft.com/api/achievements/share/en-gb/LahariAnanthan-1976/7DA6QTLZ?sharingId=E7DBB53ECB51BF45
+
+Coursera Certification 
+
+- Course Name: Marketing Design with Easil
+- Certificate:https://coursera.org/share/2b5db8d12a9ac8bea73c2d0c0bf86779
